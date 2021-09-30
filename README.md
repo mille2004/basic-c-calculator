@@ -1,2 +1,3 @@
-# basic-c-calculator
+# basic-c++-calculator
 a basic c++ calculator
+
