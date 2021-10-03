@@ -5,7 +5,7 @@
 using namespace std;
   
 int main() {
-    char op;
+    char operator;
     float num1, num2;
       
     cout << "Enter an arithemetic operator(+ - * /)\n";
