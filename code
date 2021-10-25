@@ -1,7 +1,7 @@
 
 /* C++ program to make a simple calculator to Add, Subtract, 
  Multiply or Divide using switch...case statement */
-#include <iostream.h>
+#include <iostream>
 using namespace std;
   
 int main() {
